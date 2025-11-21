@@ -1,7 +1,7 @@
 Hi there, I'm Surya! 👋
 
 ## 🚀 About Me
-I'm a Senior Software Engineer with 5+ years of experience building enterprise applications, distributed systems, and cloud-native solutions. I specialize in creating scalable, high-performance applications that solve complex business challenges.
+I'm a Senior Software Engineer with experience building enterprise applications, distributed systems, and cloud-native solutions. I specialize in creating scalable, high-performance applications that solve complex business challenges.
 
 🔭 I'm currently working on Java-based enterprise applications
 
@@ -146,7 +146,7 @@ I'm a Senior Software Engineer with 5+ years of experience building enterprise a
 <div align="center">
 
 [📧 Email](mailto:gajjelasuryateja2021@gmail.com) • 
-[💼 LinkedIn](https://www.linkedin.com/in/surya007-xyz/) • 
+[💼 LinkedIn](https://www.linkedin.com/) • 
 [🌐 Portfolio](https://gajjela521.github.io) • 
 [💻 LeetCode](https://leetcode.com/u/gajjelasuryateja/)  • 
 
